@@ -12,9 +12,9 @@ In this game we have three level which we can try to check our typing speed and 
 ***
 + This website / game is entertaining way of practicing typing.
 + This game have one page representation to play or practice the game and get the scores.
-+ Have three different level in the game - Easy
-                                         - Medium
-                                         - Hard
++ Have three different level in the game  - Easy
+                                          - Medium
+                                          - Hard
 + For each correct type we can one point.
 + There is a time limit for every word, if you type within time you get the point or you loss.
 + For every level of game correct answer of typing have different add-on of time.
