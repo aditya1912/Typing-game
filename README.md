@@ -33,8 +33,8 @@ In this game we have three level which we can try to check our typing speed and 
   - Medium level - 3s add-on.
   - Hard level - 2s add-on.
       
-+ Once the time reach 0, Game over and you will get your score.
++ Once the time reach 0s, Game over and you will get your score.
 
 *** 
 
-### Practice to make a good score
+##### Practice to make a good score
