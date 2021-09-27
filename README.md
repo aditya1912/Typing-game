@@ -37,4 +37,4 @@ In this game we have three level which we can try to check our typing speed and 
 
 *** 
 
-##### Practice to make a good score
+#### Practice, and make a good score. All the best 👍💝
