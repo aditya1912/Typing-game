@@ -23,16 +23,16 @@ In this game we have three level which we can try to check our typing speed and 
 ***
 
 + To play this game click here [here][1].
-  [1]: https://typing-game-ns.netlify.app/
+  [1]: https://typing-game-ns.netlify.app/ "here"
 
 + Timer start once the page loaded, type the word you see in the box
 + For each right answer you get 1 point.
 + You will stick to page with same word until right answer or time up.
 + For each right answer you get add-on of time
 + For 
-      - Easy level -- 5s add-on.
-      - Medium level -- 3s add-on.
-      - Hard level -- 2s add-on.
+  - Easy level -- 5s add-on.
+  - Medium level -- 3s add-on.
+  - Hard level -- 2s add-on.
       
 + Once the time reach 0, Game over and you will get your score.
 
